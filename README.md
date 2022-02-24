@@ -1,6 +1,6 @@
-# --ElementsCandidateAssignment - webbackend--
+# --webbackend--
 
-webbackend is a RESTful API developed in the Django Rest Framework (DRF).
+webbackend is a RESTful API practice project developed in the Django Rest Framework (DRF).
 
 ## --Installation--
 
